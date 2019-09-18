@@ -1,3 +1,3 @@
 # GDPGroup2
 
-This is a laurel review website project.
+This is a LAUREL REVIEW website project.
