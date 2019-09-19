@@ -75,8 +75,8 @@ body {
   outline: 0 !important;
 }
 
-hr {
-  -webkit-box-sizing: content-box;
+hr { 
+  -webkit-box-sizing: content-box; 
   box-sizing: content-box;
   height: 0;
   overflow: visible;
