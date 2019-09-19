@@ -2,6 +2,7 @@
 # GDPGroup2 - The Laurel Review
 
 This is a LAUREL REVIEW website project. This repository is for GDP Project.
+
 Repository Link: https://github.com/SaiTejaswiniNarne/GDPGroup2
 
 ## About the Project:
