@@ -1,3 +1,4 @@
+<!-- This is a minor modification by Sai Tejaswini Narne -->
 # GDPGroup2 - The Laurel Review
 
 This is a LAUREL REVIEW website project. This repository is for GDP Project.
